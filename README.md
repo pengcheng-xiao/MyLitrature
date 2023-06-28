@@ -1,5 +1,5 @@
 # 参考文献
-references
+references   
 [1] Meng X, Luo S, Wang W, et al. A detection model for corner cracks of continuous casting strand based on deep learning[J]. Ironmaking & Steelmaking, 2022: 1-9.
 [2] Guo Y, Luo S, Wang W, et al. A GPU-accelerated 3D PF-LBM modelling of multi-dendritic growth in an undercooled melt of Fe–C binary alloy[J]. Journal of Materials Research and Technology, 2022, 17: 2059-2072.
 [3] Meng X, Luo S, Zhou Y, et al. Time–Frequency Characteristics and Predictions of Instantaneous Abnormal Level Fluctuation in Slab Continuous Casting Mold[J]. Metallurgical and Materials Transactions B, 2023: 1-13.
